@@ -6,6 +6,7 @@ Projeto do curso DEV EM DOBRO com README. Realizado seguindo o aprendizado das a
 💻- Imagem do projeto, versão desktop.
 
 [<img src="./Src/Img/desktop-version.png" alt="imgem final da versão para desktop">]
+
 Um dos meus primeiro projeto utilizando CSS. Exercício realizado seguindo o layout do Figma.
 
 📱- Visualização final do projeto em mobile.
