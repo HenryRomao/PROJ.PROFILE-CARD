@@ -23,7 +23,7 @@ Grato!😊
 
 Clone com o projeto:
 ```
-git clone <url>
+git clone https://github.com/HenryRomao/PROJ.PROFILE-CARD.git
 ```
 
 Acesse a pasta do projeto:
