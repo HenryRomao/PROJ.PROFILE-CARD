@@ -39,6 +39,8 @@ hr{
 .card .profile-informations img {
     border-radius: 50%;
     margin-top: 20px;
+    width: 200px;
+    height: 200px;
 }
 
 .card .profile-numbers{
